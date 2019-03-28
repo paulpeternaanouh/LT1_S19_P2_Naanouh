@@ -1,4 +1,4 @@
 alias gitc='git commit -m'
 alias sbrc='source ~/.bashrc'
-alias cdd='cd ~/Desktop pwd'
+alias cdd='pwd cd ~/Desktop' 
 
