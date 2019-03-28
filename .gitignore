@@ -1,0 +1,12 @@
+*.log 
+*.gz 
+*.tmp
+*.aux 
+*.nav 
+*.toc
+*.out 
+*.synctex.gz 
+*.synctex
+
+
+

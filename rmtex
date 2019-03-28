@@ -1,0 +1,2 @@
+rm *.tex *.log *.gz *.tmp *.aux *.nav *.toc *.out *.synctex
+
